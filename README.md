@@ -1,4 +1,4 @@
-#thomaz e Isaque 2°DS --Funções em PHP
+# Thomaz e Isaque 2°DS --Funções em PHP
 
 1 Crie uma função chamada multiplicar que receba dois números e retorne o resultado da multiplicação.
 2 Crie uma função chamada parOuImpar que receba um número e retorne "Par" se for par e "Ímpar" se for ímpar.
